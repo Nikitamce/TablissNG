@@ -18,8 +18,8 @@ const config: Config = {
   // Set the production url of your site here
   url: "https://tablissng.smrff.dev",
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/docs/",
+  // Docs are served at the site root; the web preview lives under /web/.
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -83,7 +83,7 @@ const config: Config = {
           position: "left",
         },
         {
-          href: "https://bookcatkid.github.io/TablissNG/",
+          href: "https://tablissng.smrff.dev/web/",
           label: "Web Preview",
           position: "left",
         },
@@ -123,7 +123,7 @@ const config: Config = {
             },
             {
               label: "Web Preview",
-              href: "https://bookcatkid.github.io/TablissNG/",
+              href: "https://tablissng.smrff.dev/web/",
             },
           ],
         },
