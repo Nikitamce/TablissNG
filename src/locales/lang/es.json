@@ -487,6 +487,7 @@
   "settings.basicOutline": "Básico (Sombreado)",
   "settings.customClass.placeholder": "Ingresa una clase personalizada para facilitar el estilo",
   "settings.customClass.title": "Clase CSS personalizada",
+  "settings.disableWidget": "Disable widget",
   "settings.favicon": "Favicon",
   "settings.favicon.error.read": "No se pudo leer el archivo. Inténtalo de nuevo.",
   "settings.favicon.error.size": "La imagen debe ser menor de 8KB",

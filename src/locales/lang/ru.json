@@ -487,6 +487,7 @@
   "settings.basicOutline": "Базовый (Тень текста)",
   "settings.customClass.placeholder": "Enter a custom class for easier styling",
   "settings.customClass.title": "Custom CSS Class",
+  "settings.disableWidget": "Disable widget",
   "settings.favicon": "Favicon",
   "settings.favicon.error.read": "Failed to read file. Please try again.",
   "settings.favicon.error.size": "Image must be smaller than 8KB",

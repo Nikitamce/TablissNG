@@ -487,6 +487,7 @@
   "settings.basicOutline": "Cơ bản (Bóng chữ)",
   "settings.customClass.placeholder": "Nhập lớp tùy chỉnh để dễ dàng tùy chỉnh kiểu",
   "settings.customClass.title": "Lớp CSS Tùy chỉnh",
+  "settings.disableWidget": "Disable widget",
   "settings.favicon": "Favicon",
   "settings.favicon.error.read": "Failed to read file. Please try again.",
   "settings.favicon.error.size": "Image must be smaller than 8KB",

@@ -487,6 +487,7 @@
   "settings.basicOutline": "Basic (Textschatten)",
   "settings.customClass.placeholder": "Eigene Klasse für einfacheres Styling",
   "settings.customClass.title": "Benutzerdefinierte CSS Klasse",
+  "settings.disableWidget": "Disable widget",
   "settings.favicon": "Favicon",
   "settings.favicon.error.read": "Failed to read file. Please try again.",
   "settings.favicon.error.size": "Image must be smaller than 8KB",

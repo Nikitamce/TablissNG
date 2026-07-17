@@ -487,6 +487,7 @@
   "settings.basicOutline": "基本（文本阴影）",
   "settings.customClass.placeholder": "输入自定义类以便于样式设置",
   "settings.customClass.title": "自定义 CSS 类",
+  "settings.disableWidget": "Disable widget",
   "settings.favicon": "网站图标",
   "settings.favicon.error.read": "文件读取失败。请重试。",
   "settings.favicon.error.size": "图片必须小于 8KB",
